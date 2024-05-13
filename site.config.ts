@@ -59,7 +59,7 @@ export default siteConfig({
     },
     {
       title: 'Contact',
-      pageId: 'Contact-0f3b707a13d24dc7a255302b910cb2d4?pvs=4'
+      pageId: 'contact-0f3b707a13d24dc7a255302b910cb2d4?pvs=4'
     }
   ]
 })
