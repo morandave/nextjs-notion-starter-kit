@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'moran's blog',
+  name: 'moran blog',
   domain: 'https://denim-punishment-233.notion.site/moranzhu-site-de595cab7fe349338c7ee8d8b3e50b1f?pvs=4',
   author: 'moran',
 
