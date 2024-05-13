@@ -53,13 +53,13 @@ export default siteConfig({
   // navigationStyle: 'default'
   navigationStyle: 'custom',
   navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
+    {
+      title: 'About',
+      pageId: 'About-ecc004c919ec49fb8472199ccb45578f?pvs=4'
+    },
+    {
+      title: 'Contact',
+      pageId: 'Contact-0f3b707a13d24dc7a255302b910cb2d4?pvs=4'
+    }
   ]
 })
