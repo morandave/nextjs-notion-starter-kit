@@ -55,7 +55,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'About-ecc004c919ec49fb8472199ccb45578f?pvs=4'
+      pageId: 'About-76f9e5659a644cc68d4040886b38d881?pvs=4'
     },
     {
       title: 'Contact',
